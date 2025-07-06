@@ -36,4 +36,5 @@ My MCP fixes this by making the process **fast, organized, and standardized!**
 6.  **Update:** Your Google Sheet gets links and status, automatically!
 
 ---
+Skills: Python, API integration, webhook implementation, Google Cloud Platform management
 
