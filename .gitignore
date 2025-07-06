@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+
+# Google Service Account Key ()
+google_service_account_key.json
